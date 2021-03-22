@@ -10,11 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://button-cmp-challenge.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/HermanLD/Button-cmp-challenge">
       Solution
     </a>
     <span> | </span>

@@ -1,4 +1,5 @@
 module.exports = {
+  purge: ["./src/App.vue", "./src/components/AppBtn.vue"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
