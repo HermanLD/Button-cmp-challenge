@@ -2,7 +2,7 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">DevChallenges Button Component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -39,7 +39,7 @@
 
 ## Overview
 
-![screenshot](https://res.cloudinary.com/nimbus8/image/upload/c_scale,w_820/v1616388485/portfolio/Screenshot_2021-03-21_Vite_App_dn0rjp.pnghttps://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.pnghttps://res.cloudinary.com/nimbus8/image/upload/c_scale,w_820/v1616388485/portfolio/Screenshot_2021-03-21_Vite_App_dn0rjp.png)
+![Button Component](https://res.cloudinary.com/nimbus8/image/upload/v1616389627/portfolio/Screenshot_2021-03-21_Vite_App_dn0rjp.png)
 
 Learned to create a reusable app button using concepts to make them as flexible as possible.
 
